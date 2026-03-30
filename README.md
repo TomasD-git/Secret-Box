@@ -7,5 +7,5 @@ Power module  //  https://www.aliexpress.com/item/1005005656423941.html
 Battery 2X  //  https://www.aliexpress.com/item/1005007257546981.html  
 SG90 9G Micro Servo  //  https://www.aliexpress.com/item/1005007173214082.html  
 PN532 module set, RFID Reader  //  https://www.aliexpress.com/item/1005007182056113.html  
-IRFZ44N  //  https://www.aliexpress.com/item/1005008120572312.html  
+IRLZ44N  //  https://www.aliexpress.com/item/1005008120572312.html  
 ESP32-C3 SuperMini  //  https://www.aliexpress.com/item/1005007496189056.html  
