@@ -1,0 +1,11 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"Jumper wires (small kit)","will be used to connect all components, the kit has 20 of each jumper wire(20m-f,20m-m,20f-f)",1,3.62,"https://www.aliexpress.com/item/4000203371860.html","Aliexpress"
+"M2x4mm screws","same as the 3mm those 4mm are just to secure some parts even more",1,2.04,"https://www.aliexpress.com/item/32810852732.html","Aliexpress"
+"M2x3mm screws","goes into heatset inserts to secure everything",1,1.95,"https://www.aliexpress.com/item/32810852732.html","Aliexpress"
+"M2xL2xOD3 Heatset Inserts","secures everthing with screws and soldering iron",1,3.11,"https://www.aliexpress.com/item/1005006071488810.html","Aliexpress"
+"ESP32-C3 SuperMini ","Brain of everything, controls movement of servos, rfid reader, mosfet",1,2.94,"https://www.aliexpress.com/item/1005007496189056.html","Aliexpress"
+"IRLZ44N (Mosfet)","allows to completelly cut power to servos so they dont use any electricity if they arent used",1,1.77,"https://www.aliexpress.com/item/1005008120572312.html","Aliexpress"
+"PN532 module set (RFID reader)","allows to read rfid, small kit that has chip and reader",1,4.07,"https://www.aliexpress.com/item/1005007182056113.html","Aliexpress"
+"Servo motor","allows locking the lid",1,4.55,"https://www.aliexpress.com/item/1005007257546981.html","Aliexpress"
+"3.7V Battery","allows the whole project live without needing to be in charger always",1,8.15,"https://www.aliexpress.com/item/1005007257546981.html","Aliexpress"
+"Power module","allows recharging battery and stable 5V output",1,1.26,"https://www.aliexpress.com/item/1005005656423941.html","Aliexpress"
