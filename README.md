@@ -1,10 +1,15 @@
 # Secret-Box  
 
-Secret-Box is a small box that unlocks with an RFID card. Tap the right card near the reader and a servo opens the lid.  
+![picture of fully assmebled](Pictures/full.png)  
+
+**Secret-Box is a small box that unlocks with an RFID card. Tap the chip near the reader and a servo unlocks the lid.**  
 
 It runs on a 3.7V battery so it doesn't need to be plugged in, and a MOSFET cuts power to the servo completely when it's not doing anything, which keeps the battery from draining. The whole thing is built around an ESP32-C3 SuperMini and fits inside a 3D printed enclosure held together with heatset inserts and screws.  
 
+![picture of a good angle of the projects CAD](Pictures/good.png)  
+
 ## How It Works  
+
 
 The PN532 RFID reader constantly listens for a card. When it sees an authorized one, the ESP32 tells the MOSFET to give power to the servo, which then rotates and unlocks the lid. When it's done, the MOSFET cuts the servo's power again so it's not wasting any electricity sitting there. The power module handles charging the battery and makes sure everything gets a clean 5V. Has 3.7V battery for function without charging.  
 
