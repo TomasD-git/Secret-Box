@@ -9,3 +9,6 @@ SG90 9G Micro Servo  //  https://www.aliexpress.com/item/1005007173214082.html
 PN532 module set, RFID Reader  //  https://www.aliexpress.com/item/1005007182056113.html  
 IRLZ44N  //  https://www.aliexpress.com/item/1005008120572312.html  
 ESP32-C3 SuperMini  //  https://www.aliexpress.com/item/1005007496189056.html  
+M2xL2xOD3 Heatset inserts  //  https://www.aliexpress.com/item/1005006071488810.html  
+M2x3mm Screws 50pcs  //  https://www.aliexpress.com/item/32810852732.html  
+M2x4mm Screws 50pcs  //  https://www.aliexpress.com/item/32810852732.html  
