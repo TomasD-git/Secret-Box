@@ -13,6 +13,16 @@ It runs on a 3.7V battery so it doesn't need to be plugged in, and a MOSFET cuts
 
 The PN532 RFID reader constantly listens for a card. When it sees an authorized one, the ESP32 tells the MOSFET to give power to the servo, which then rotates and unlocks the lid. When it's done, the MOSFET cuts the servo's power again so it's not wasting any electricity sitting there. The power module handles charging the battery and makes sure everything gets a clean 5V. Has 3.7V battery for function without charging.  
 
+## Wiring
+
+<img width="830" height="822" alt="Screenshot 2026-04-09 083154" src="https://github.com/user-attachments/assets/cfa14f98-5e2b-4d64-bb4a-68a15349d630" />
+
+> [!NOTE]
+> instead of the button there will be a rfid reader
+
+
+
+
 ## Bill of Materials  
 
 <details>
