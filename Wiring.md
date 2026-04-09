@@ -1,3 +1,8 @@
+<img width="830" height="822" alt="image" src="https://github.com/user-attachments/assets/1097ae43-d469-4c11-b35b-7ed5c7d1f3d9" />
+
+> [!NOTE]
+> instead of the button there will be a rfid reader
+
 # Full wiring list
 ## PN532 RFID reader  
 
